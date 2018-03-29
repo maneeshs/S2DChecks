@@ -12,4 +12,4 @@ This repository, at the moment, is a placeholder. There are other community effo
 
 If you are interested in contributing, just tweet! 
 
-If you have a set of tests that you want to get included in this module, drop a comment here (#1). 
+If you have a set of tests that you want to get included in this module, drop a comment here ([#1](https://github.com/rchaganti/S2DChecks/issues/1)). 
